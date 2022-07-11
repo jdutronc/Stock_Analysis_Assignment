@@ -15,9 +15,7 @@ Now Steve wants to be able to expand the dataset to analyze the entire stock mar
 
 <br> Click image to enlarge
 
-<br>
-
-<img align="right" src="Resources/2018.png" width="300">
+<img align="left" src="Resources/2018.png" width="300">
 <br> On the contrary, 2018 was a very tough year and only 2 tickers posted a positive return: $ENPH and $RUN, each above 80% YoY. The industry posted a weighted average return of 7% YoY but looking more closely we can see that $ENPH and $RUN had strong positive returns with high trading volumes that heavily skew the average. The other 10 tickers in our analysis posted a weighted average of -31% YoY, and unfortunately for Steve's parents $DQ strongly underperformed with an annual return of -60%.
 
 <br> Click image to enlarge
