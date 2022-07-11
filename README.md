@@ -98,5 +98,29 @@ Our refactored code does indeed run faster than the original code, as seen in th
   <img src="Resources/VBA_Challenge_2018.png" width="400" />
 </p>
 
+<br>
+
 ## Summary
 
+### Refactoring code in general
+
+Refactoring code allows to:
+- improve old code to run faster
+- ingest larger datasets
+- improve readability of the code to share with other team members
+
+But refactoring also bears risks :
+- it takes time to get acquainted with old code (even one's own)
+- it takes time to refactor (vs. rewriting from scratch?), especially for longer pieces of code
+- refactoring might create bugs and stop the old code from running smoothly
+
+### Refactoring our particular VBA script
+
+The original code is :
+- shorter to write
+- easier to read through by someone else
+
+But the refactored code :
+- allows Steve to compare $DQ's performance with a much larger dataset
+- can let Steve choose the time period that he wants to look at
+- produces results that are more visually appealing and easier to read and analyze thanks to conditional formatting
