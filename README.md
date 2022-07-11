@@ -11,7 +11,9 @@ Now Steve wants to be able to expand the dataset to analyze the entire stock mar
 ### Stock Performance
 
 <img align="right" src="Resources/2017.png" width="300">
-2017 was a very good year for green energy stocks, with double- and even triple-digit growth for all tickers across the industry (with the notable exception of $TERP down 7% YoY). $DQ in particular overperformed and even topped the industry with an annual return of 199%, way above industry weighted average return of 60%.
+2017 was a very good year for green energy stocks, with double- and even triple-digit growth for all tickers across the industry (with the notable exception of $TERP down 7% YoY).
+
+$DQ in particular overperformed and even topped the industry with an annual return of 199%, way above industry weighted average return of 60%.
 
 <br> Click image to enlarge
 
