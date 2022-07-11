@@ -82,16 +82,20 @@ Using our knowledge of VBA we have refactored our code to loop through the data 
     Next i
 
 
+<br>
+
 Our refactored code does indeed run faster than the original code, as seen in the screenshots below :
 
 <p float="left">
-  <img src="Resources/2017.png" width="300" />
-  <img src="Resources/VBA_Challenge_2017.png" width="300" />
+  <img src="Resources/2017.png" width="400" />
+  <img src="Resources/VBA_Challenge_2017.png" width="400" />
 </p>
 
+<br>
+
 <p float="left">
-  <img src="Resources/2018.png" width="300" />
-  <img src="Resources/VBA_Challenge_2018.png" width="300" />
+  <img src="Resources/2018.png" width="400" />
+  <img src="Resources/VBA_Challenge_2018.png" width="400" />
 </p>
 
 ## Summary
