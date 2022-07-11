@@ -86,7 +86,12 @@ Our refactored code does indeed run faster than the original code, as seen in th
 
 <p float="left">
   <img src="Resources/2017.png" width="300" />
-  <img src="/img2.png" width="100" />
+  <img src="Resources/VBA_Challenge_2017.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="Resources/2018.png" width="300" />
+  <img src="Resources/VBA_Challenge_2018.png" width="300" />
 </p>
 
 ## Summary
