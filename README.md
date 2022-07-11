@@ -18,7 +18,6 @@ Now Steve wants to be able to expand the dataset to analyze the entire stock mar
 Click image to enlarge
 
 <br>
-
 <br>
 
 <img align="left" vertical-align="top" src="Resources/2018.png" width="300">
@@ -26,7 +25,7 @@ On the contrary, 2018 was a very tough year and only 2 tickers posted a positive
 
 <br> Click image to enlarge
 
-In the next phase of our analysis, it would be interesting to find out:
+<br> In the next phase of our analysis, it would be interesting to find out:
 - why the industry performed so well in 2017 and so poorly in 2018 overall (regulatory change? macroeconomics?)
 - why $ENPH and $RUN both managed positive returns in consecutive years, especially in 2018 when the whole industry was underperforming (SWOT)
 
