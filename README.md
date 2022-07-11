@@ -10,11 +10,13 @@ Now Steve wants to be able to expand the dataset to analyze the entire stock mar
 
 ### Stock Performance
 
-<img align="right" src=Resources/2017.png width="400">
+<img align="right" src="Resources/2017.png" width="400">
 2017 was a very good year for green energy stocks, with double- and even triple-digit growth for all tickers across the industry (with the notable exception of $TERP down 7% YoY). $DQ in particular overperformed and even topped the industry with an annual return of 199%, way above industry weighted average return of 60%.
+<b/r> Click image to enlarge
 
-
+<img align="right" src="Resources/2018.png" width="300">
 <b/r> On the contrary, 2018 was a very tough year and only 2 tickers posted a positive return: $ENPH and $RUN, each above 80% YoY. The industry posted a weighted average return of 7% YoY but looking more closely we can see that $ENPH and $RUN had strong positive returns with high trading volumes that heavily skew the average. The other 10 tickers in our analysis posted a weighted average of -31% YoY, and unfortunately for Steve's parents $DQ strongly underperformed with an annual return of -60%.
+<b/r> Click image to enlarge
 
 In the next phase of our analysis, it would be interesting to find out:
 - why the industry performed so well in 2017 and so poorly in 2018 overall (regulatory change? macroeconomics?)
