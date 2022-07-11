@@ -88,6 +88,8 @@ Our refactored code does indeed run faster than the original code, as seen in th
 
 Original Code              |  Refactored Code
 :-------------------------:|:-------------------------:
+![](Resources/2017.png)    | ![](Resources/VBA_Challenge_2017.png)
+
 
 <p float="left">
   <img src="Resources/2017.png" width="400" />
