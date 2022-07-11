@@ -35,6 +35,8 @@ That will help Steve make better informed guestimates as to stock performance in
 
 Using our knowledge of VBA we have refactored our code to loop through the data and collect all the information in on go. Here is a sample :
 
+<img align="center" src="Resources/Code Refactor.txt">
+
 
 ## Summary
 
