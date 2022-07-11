@@ -35,7 +35,7 @@ That will help Steve make better informed guestimates as to stock performance in
 
 Using our knowledge of VBA we have refactored our code to loop through the data and collect all the information in on go. Here is a sample :
 
-'1a) Create a ticker Index
+    '1a) Create a ticker Index
     tickerIndex = 0
 
     '1b) Create three output arrays
@@ -80,6 +80,8 @@ Using our knowledge of VBA we have refactored our code to loop through the data 
         Cells(4 + i, 3).Value = (tickerEndingPrices(i) / tickerStartingPrices(i)) - 1
        
     Next i
+
+
 
 
 ## Summary
