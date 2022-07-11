@@ -17,7 +17,8 @@ On the contrary, 2018 was a very tough year and only 2 tickers posted a positive
 In the next phase of our analysis, it would be interesting to find out:
 - why the industry performed so well in 2017 and so poorly in 2018 overall (regulatory change? macroeconomics?)
 - why $ENPH and $RUN both managed positive returns in consecutive years, especially in 2018 when the whole industry was underperforming (SWOT)
-<b/r> That will help Steve make informed guesses as to stock performance in the coming years.
+
+That will help Steve make informed guesses as to stock performance in the coming years.
 
 ### Code Performance
 
