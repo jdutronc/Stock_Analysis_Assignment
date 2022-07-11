@@ -86,6 +86,9 @@ Using our knowledge of VBA we have refactored our code to loop through the data 
 
 Our refactored code does indeed run faster than the original code, as seen in the screenshots below :
 
+Original Code              |  Refactored Code
+:-------------------------:|:-------------------------:
+
 <p float="left">
   <img src="Resources/2017.png" width="400" />
   <img src="Resources/VBA_Challenge_2017.png" width="400" />
