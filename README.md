@@ -82,7 +82,12 @@ Using our knowledge of VBA we have refactored our code to loop through the data 
     Next i
 
 
+Our refactored code does indeed run faster than the original code, as seen in the screenshots below :
 
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" />
+</p>
 
 ## Summary
 
